@@ -1,0 +1,3 @@
+Swap the last sentence with the first sentence
+Replace ‘I’ with ‘Apple’
+Read the whole text backwards
